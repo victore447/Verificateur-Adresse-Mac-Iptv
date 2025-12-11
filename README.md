@@ -1,0 +1,72 @@
+# ![143](https://github.com/user-attachments/assets/e402fccd-4951-4a91-b73d-5a91a7038ef6)VERIFICATEUR IPTV D'ADRESSE MAC VIA URL
+![animation_tv_formuler_gif_1535444469668](https://github.com/user-attachments/assets/effe8cf4-a390-46a5-956d-cd8b1852bf9c)
+></details>
+### <li>- [x] Version Française Animé 🇫🇷 du repo de 👉["Fairy-Root"](https://github.com/fairy-root) 👉["iptv-mac-checker"](https://github.com/fairy-root/iptv-mac-checker): </li>
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>
+> ## Aperçu:
+> Ce script Python maccheck.pyest conçu pour générer une liste d'adresses MAC IPTV et interroger le serveur afin d'obtenir des informations telles que la date 
+> d'expiration >de l'abonnement et le nombre de chaînes associées à chaque adresse MAC. Il permet de spécifier une adresse MAC de départ et de poursuivre la recherche à 
+> partir de celle->ci.
+>
+> ## Caracteristiques:
+> Génère des combinaisons d'adresses MAC
+> Effectue des requêtes HTTP pour récupérer les informations d'abonnement et de chaîne.
+> Permet de démarrer à partir d'une adresse MAC spécifique
+> Gère les interruptions avec élégance
+>
+> ## Exigence:
+> - Python 3.x
+> - bibliothèque de requêtes ( pip install requests)
+>
+> ## Instalation:
+> ```bash
+>   git clone https://github.com/fairy-root/iptv-mac-checker.git
+>   cd iptv-mac-checker
+>   ```
+> 2. Installer les dépendances:
+>   ```bash
+>   pip install requests
+>   ```
+>
+> ## Usage:
+> 1. Executé le script:
+>  ```bash
+>  python maccheck.py
+>  ```
+> 2) Suivez les instructions pour saisir le lien IPTV et, éventuellement, une adresse Mac de départ.
+> 3) Le script commencera à générer des adresses MAC, à effectuer des requêtes et à afficher les résultats.
+>
+> ## Exemple:
+> ```bash
+> ** **Enter IPTV link: http://example.com
+> Enter a full MAC address to start from or press Enter to start from beginning: 00:1A:79:01:23:45
+> ```
+><img width="785" height="254" alt="calipsos" src="https://github.com/user-attachments/assets/9044956c-aa2b-40c8-b1ed-4387f39f8e28" />
+>
+> ## Note:
+> Vérifiez que le lien IPTV est accessible et correctement formaté.
+> Le choix d'une adresse MAC spécifique est facultatif.
+> Interrompre le script (par exemple avec Ctrl+C) permettra de quitter le processus proprement.
+>  
+></details>
+
+
+
+></details>
+### <li>- [x] LIENS APK MAG PORTAL & STBEMU..VIERGES: </li>
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
+>  
+> - 🖲️ **[Premium Mod Ott Tv](https://leeapk.com/ott-navigator-iptv-mod-apk/)**
+> - 🖲️ **[Ott Tv Google Play Store](https://play.google.com/store/apps/details?id=appnovatica.tv&hl=fr&gl=US)**
+> - ![Ott Navigator Google Play Store](https://github.com/victore447/M3uSportsFrance/assets/48101775/86d9a2f8-6516-4f7d-a1e6-89c429e438f3)
+> - 🖲️ **[Premium Mod Tivimate Iptv Player](https://dlandroid.com/tivimate-iptv-player-apk)**
+> - 🖲️ **[Tivimate Iptv Player Google Play Store](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
+> -  ![Tivimate](https://github.com/victore447/M3uSportsFrance/assets/48101775/2ed83ae1-f593-4ed9-951a-45bb9a9ba029)
+>  
+></details>
+
+### <li>- [x]  ![198](https://github.com/user-attachments/assets/44121673-83c6-4c03-a521-c92ea209ef0c)star si ça été intéressant ✔️ </li>![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
