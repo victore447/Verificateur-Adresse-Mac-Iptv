@@ -9,8 +9,8 @@
 >
 > ## Aperçu:
 > Ce script Python maccheck.pyest conçu pour générer une liste d'adresses MAC IPTV et interroger le serveur afin d'obtenir des informations telles que la date 
-> d'expiration >de l'abonnement et le nombre de chaînes associées à chaque adresse MAC. Il permet de spécifier une adresse MAC de départ et de poursuivre la recherche à 
-> partir de celle->ci.
+> d'expiration de l'abonnement et le nombre de chaînes associées à chaque adresse MAC (des séries et films sont inclus). Il permet de spécifier une adresse MAC de départ et de poursuivre la recherche à 
+> partir de celle-ci.
 >
 > ## Caracteristiques:
 > Génère des combinaisons d'adresses MAC
@@ -19,6 +19,7 @@
 > Gère les interruptions avec élégance
 >
 > ## Exigence:
+ > - Linux (debian & Ubuntu) 
 > - Python 3.x
 > - bibliothèque de requêtes ( pip install requests)
 >
