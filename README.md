@@ -5,7 +5,7 @@
 ### <li>- [x] Ceci est la Version Française Animé 🇫🇷 du repo de 👉["Fairy-Root"](https://github.com/fairy-root) 👉["iptv-mac-checker"](https://github.com/fairy-root/iptv-mac-checker): </li>
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->
+>  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 > ## Aperçu:
 > Ce script Python maccheck.py est conçu pour générer une liste d'adresses MAC IPTV et interroger le serveur afin d'obtenir des informations telles que la date 
 > d'expiration de l'abonnement et le nombre de chaînes associées à chaque adresse MAC (des séries et films sont inclus). Il permet de spécifier une adresse MAC de départ et de poursuivre la recherche à 
