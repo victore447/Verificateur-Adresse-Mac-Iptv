@@ -2,7 +2,7 @@
  # VERIFICATEUR IPTV D'ADRESSE MAC VIA URL
 ![giphy](https://github.com/user-attachments/assets/d938ef2b-0fe1-4055-b2da-9788fdc68aff) ![giphy (1)](https://github.com/user-attachments/assets/aac0dc3b-7b91-41df-b0f0-ba7696b4da09)
 ></details>
-### <li>- [x] Version Française Animé 🇫🇷 du repo de 👉["Fairy-Root"](https://github.com/fairy-root) 👉["iptv-mac-checker"](https://github.com/fairy-root/iptv-mac-checker): </li>
+### <li>- [x] Ceci est la Version Française Animé 🇫🇷 du repo de 👉["Fairy-Root"](https://github.com/fairy-root) 👉["iptv-mac-checker"](https://github.com/fairy-root/iptv-mac-checker): </li>
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
 >
