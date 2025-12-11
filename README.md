@@ -73,4 +73,5 @@
 >  
 ></details>
 
-### <li>- [x]  ![198](https://github.com/user-attachments/assets/44121673-83c6-4c03-a521-c92ea209ef0c)star si ça été intéressant ✔️ </li>![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
+
+### <li>- [x] ![198](https://github.com/user-attachments/assets/0797f3dc-07e8-47fd-bca9-93967eeaab29) star si ça été intéressant ✔️ </li>![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
