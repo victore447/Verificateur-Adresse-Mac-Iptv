@@ -49,12 +49,12 @@
 >
 > ## Note:
 > Vérifiez que les url IPTV et adresse Mac fonctionnent & sont accessibles..
->  Voir fichier joint au repo "Url & Mac Actifs" afin de faire plusieurs extractions en Test comme exemple.
+>  Voir fichier joint au repo "Url & Mac 👉 ["Url & Mac Actifs"](https://github.com/victore447/Verificateur-Adresse-Mac-Iptv/blob/main/Url%20%26%20Mac%20Actifs.txt)
+ afin de faire plusieurs extractions en Test comme exemple.
 > Le choix d'une adresse MAC spécifique est facultatif.
 > Interrompre le script (par exemple avec Ctrl+C) permettra de quitter le processus proprement.
 >  
 ></details>
-
 
 
 ></details>
