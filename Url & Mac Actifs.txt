@@ -1,11 +1,11 @@
-1) URL: http://drmv3-m6.info:80
+1) URL: http://drmv3-m6.info
 MAC: 00:1A:79:84:1A:60
 
-2) URL: http://eagle2024.xyz:80
+2) URL: http://eagle2024.xyz
 MAC: 00:1A:79:C1:E3:9A
 
-3) URL: http://eagle2024.xyz:80
+3) URL: http://eagle2024.xyz
 MAC: 00:1A:79:84:0F:1B
 
-4) URL: http://eagle2024.xyz:80
+4) URL: http://eagle2024.xyz
 MAC: 00:1A:79:BF:47:35
