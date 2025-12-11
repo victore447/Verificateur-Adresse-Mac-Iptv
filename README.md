@@ -42,8 +42,8 @@
 >
 > ## Exemple:
 > ```bash
-> ** **Enter IPTV link: http://example.com
-> Enter a full MAC address to start from or press Enter to start from beginning: 00:1A:79:01:23:45
+> ** **Entrer l'url Iptv: http://example.com
+> Saisissez une adresse MAC complète pour commencer ou appuyez sur Entrée pour commencer depuis le début : 00:1A:79:01:23:45
 > ```
 >  <img width="784" height="179" alt="calipsos" src="https://github.com/user-attachments/assets/7fa80638-a98f-4081-8480-36e2987fe971" />
 >
