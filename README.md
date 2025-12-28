@@ -64,6 +64,8 @@
 ><details>
 >  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 >  
+> - 🖲️ **[Sparkle TV-👍Premium Activé (Mac Adresse,Xtream code,M3u etc...)](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
+> - <img width="530" height="269" alt="Sparkle Tv" src="https://github.com/user-attachments/assets/6ee98281-f2be-4614-bb70-9975b5eeb76a" />
 > - 🖲️ **[Premium Mod Ott Tv](https://leeapk.com/ott-navigator-iptv-mod-apk/)**
 > - 🖲️ **[Ott Tv Google Play Store](https://play.google.com/store/apps/details?id=appnovatica.tv&hl=fr&gl=US)**
 > - ![Ott Navigator Google Play Store](https://github.com/victore447/M3uSportsFrance/assets/48101775/86d9a2f8-6516-4f7d-a1e6-89c429e438f3)
